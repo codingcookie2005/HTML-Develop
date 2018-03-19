@@ -1,0 +1,12 @@
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\bin\Debug\Plugins.dll
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\bin\Debug\Plugins.pdb
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\obj\Debug\Plugins.dll
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\obj\Debug\Plugins.pdb
+C:\Users\Roshan Kumar\documents\visual studio 2015\Projects\HTML Develop\Plugins\bin\Debug\HTML Develop.exe
+C:\Users\Roshan Kumar\documents\visual studio 2015\Projects\HTML Develop\Plugins\bin\Debug\FastColoredTextBox.dll
+C:\Users\Roshan Kumar\documents\visual studio 2015\Projects\HTML Develop\Plugins\bin\Debug\HTML Develop.pdb
+C:\Users\Roshan Kumar\documents\visual studio 2015\Projects\HTML Develop\Plugins\bin\Debug\HTML Develop.xml
+C:\Users\Roshan Kumar\documents\visual studio 2015\Projects\HTML Develop\Plugins\bin\Debug\FastColoredTextBox.xml
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\bin\Debug\HTML Develop.exe.config
+C:\Users\Roshan Kumar\Documents\Visual Studio 2015\Projects\HTML Develop\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
